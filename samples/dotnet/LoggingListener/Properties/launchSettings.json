@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/swagger",
+      "environmentVariables": {
+        "ASPNETCORE_URLS": "http://*:5005"
+      },
+      "httpPort": 5005
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json"
+}
