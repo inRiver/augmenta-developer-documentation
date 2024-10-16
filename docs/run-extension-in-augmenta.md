@@ -8,7 +8,7 @@
 
 ### Reference the docker image in Augmenta from the container registry
 
-* Go to [Augmenta](https://augmenta-dev1a-euw.inriver.io/) and log in.
+* Go to [Augmenta](https://augmenta-test1a-euw.inriver.io/) and log in.
 
 * Select a customer
 
