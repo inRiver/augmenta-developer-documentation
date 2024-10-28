@@ -2,7 +2,7 @@
 
 ## Getting started
 
-* [Develop an extension in Node.js](develop-your-first-node-js-extension.md)
+* [Develop an extension in Node.js](develop-node-js-extension.md)
 
 ## Listener extension
 
