@@ -6,4 +6,4 @@
 
 ## Samples
 
-There are samples for [.NET](samples/dotnet/).
+There are samples for [.NET](samples/dotnet/) and [Node.js](samples/nodejs/).
