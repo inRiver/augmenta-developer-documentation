@@ -197,6 +197,14 @@ internal sealed record FieldModelBase
 3. Expand `POST /api/listeners/EntityUpdated`, click **Try it out**, and **Execute**.
 4. View the log output in the terminal where the container is running.
 
+### Build the docker image
+
+Run the following command:
+
+```sh
+docker build -t example-image .
+```
+
 ### Push the Docker Image
 
 Follow the steps in [Tag and push your image to a container registry](../tag-and-push-to-container-registry.md) to push the Docker image.
