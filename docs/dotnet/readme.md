@@ -15,6 +15,11 @@
 * [Develop a scheduled extension in .NET using Visual Studio 2022](develop-dotnet-scheduled-extension-using-visual-studio.md)
 * [Develop a scheduled extension in .NET using the dotnet CLI](develop-dotnet-scheduled-extension.md)
 
+## Preprocessor extension
+
+* [Develop a preprocessing extension in .NET using Visual Studio 2022](develop-dotnet-preprocessing-extension-using-visual-studio.md)
+* [Develop a preprocessing extension in .NET using the dotnet CLI](develop-dotnet-preprocessing-extension.md)
+
 ## Use the inriver REST API and extension settings
 
 * [Use the inriver REST API from an extension using Visual Studio 2022](call-inriver-rest-api-from-dotnet-extension-using-visual-studio.md)
