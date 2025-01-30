@@ -20,6 +20,10 @@
 * [Develop a preprocessing extension in .NET using Visual Studio 2022](develop-dotnet-preprocessing-extension-using-visual-studio.md)
 * [Develop a preprocessing extension in .NET using the dotnet CLI](develop-dotnet-preprocessing-extension.md)
 
+## Custom API extension
+
+* [Develop a Custom API extension in .NET](develop-dotnet-custom-api-extension.md)
+
 ## Use the inriver REST API and extension settings
 
 * [Use the inriver REST API from an extension using Visual Studio 2022](call-inriver-rest-api-from-dotnet-extension-using-visual-studio.md)
