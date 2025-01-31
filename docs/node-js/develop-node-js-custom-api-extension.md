@@ -66,7 +66,7 @@ The Augmenta API Swagger documents the URL format required to access Custom API 
 
 ![Augmenta API Swagger](../../screenshots/custom-api/custom-api-url-format.png)
 
-In this example, the URL to use would be `/api/custom/helloworld/api/hello/`, where the last segment `/api/hello/` is a catch-all route forwarded by the proxy to the Custom API.
+In this example, the URL to use would be `/api/custom/helloworld/api/hello`, where the last part of the path (`api/hello`) is a catch-all route forwarded by the proxy to the Custom API.
 
 ### Access Token Retrieval and Interacting with the Custom API
 
