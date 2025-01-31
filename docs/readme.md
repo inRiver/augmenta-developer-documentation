@@ -13,3 +13,7 @@ Language specific tutorials:
 
 * [Tag and push your image to a container registry](tag-and-push-to-container-registry.md)
 * [Run an extension in Augmenta](run-extension-in-augmenta.md)
+
+## Augmenta API Access Control
+
+* [OAuth Client Setup and Token-Based API Authentication](oauth-client/oauth-client-management.md)

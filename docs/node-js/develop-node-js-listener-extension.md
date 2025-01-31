@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-This is a continuation of [developed a Node.js extension with health and test endpoints.](develop-node-js-extension.md).
+This is a continuation of [develop a Node.js extension with health and test endpoints.](develop-node-js-extension.md).
 
 ## Steps
 
