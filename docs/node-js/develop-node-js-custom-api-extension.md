@@ -52,7 +52,7 @@ app.listen(PORT, () => {
 
 ### OAuth Clients
 
-Custom APIs require a mechanism to manage access. OAuth Clients provide this functionality by granting controlled access. Below is the process for creating an OAuth client, subsequently stored in Auth0, which serves as the identity provider.
+Custom APIs require a mechanism to manage access. OAuth Clients provide this functionality by granting controlled access. Below is the process for creating an OAuth client.
 
 ![Create OAuth Client](../../screenshots/oauth-client/oauth-client-create.png)
 

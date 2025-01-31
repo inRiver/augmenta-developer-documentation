@@ -13,7 +13,7 @@ This tutorial covers:
 
 ## OAuth Clients
 
-The Augmenta API requires a mechanism to manage access. OAuth Clients provide this functionality by granting controlled access. Below is the process for creating an OAuth Client, subsequently stored in Auth0, which serves as the identity provider.
+The Augmenta API requires a mechanism to manage access. OAuth Clients provide this functionality by granting controlled access. Below is the process for creating an OAuth Client.
 
 ![Create OAuth Client](../../screenshots/oauth-client/oauth-client-create.png)
 
